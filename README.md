@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @claudfisch
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning other programming languages
+- 📫 How to reach me ???
